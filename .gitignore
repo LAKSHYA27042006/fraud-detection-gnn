@@ -1,0 +1,17 @@
+venv/
+
+__pycache__/
+
+*.pyc
+
+saved_models/*.pth
+
+.streamlit/
+
+.ipynb_checkpoints/
+
+.DS_Store
+
+dataset/raw/
+
+*.csv
